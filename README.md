@@ -1,8 +1,10 @@
 # Nome do Projeto
 
-![Logo do Projeto](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png)
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" alt="Logo do Projeto">
+</div>
 
-Descrição curta do projeto.
+Este ropositório armazena todo o meu aprendizado referente a linguagem de programação R (10/10/2023 e eu não sei absolutamente nada sobre essa linguagem :P).
 
 ## Tabela de Conteúdo
 
@@ -46,7 +48,7 @@ Se você deseja contribuir para o projeto, forneça instruções sobre como as p
     test = 1
 ```
 
-## Contribuindo (🏗️ Work in progress)
+## Licença (🏗️ Work in progress)
 
 Este projeto está licenciado sob a Nome da Licença. Veja o arquivo LICENSE para obter detalhes.
 
