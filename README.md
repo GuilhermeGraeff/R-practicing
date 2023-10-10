@@ -1,4 +1,4 @@
-# Projeto entendeR
+# <span style="background: -webkit-linear-gradient(left, #ADD8E6, #1965b9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Projeto entedeR</span>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" alt="Logo do Projeto">
